@@ -6,7 +6,7 @@ Each project lives in its own folder with its own source code and instructions.
 ---
 
 ## 📂 Projects
-- [Pong](./pong) – Classic 2-player ping pong game
+- [Ping_Pong](./Ping_Pong) – Classic 2-player ping pong game
   
 ---
 
