@@ -1,0 +1,10 @@
+﻿  Ping_Pong.cpp
+C:\Users\Rad_8\Desktop\C++\C++_&_UNO\Ping_Pong\Ping_Pong\Ping_Pong.cpp(92,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rad_8\Desktop\C++\C++_&_UNO\Ping_Pong\Ping_Pong\Ping_Pong.cpp(93,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rad_8\Desktop\C++\C++_&_UNO\Ping_Pong\Ping_Pong\Ping_Pong.cpp(101,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rad_8\Desktop\C++\C++_&_UNO\Ping_Pong\Ping_Pong\Ping_Pong.cpp(102,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rad_8\Desktop\C++\C++_&_UNO\Ping_Pong\Ping_Pong\Ping_Pong.cpp(168,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rad_8\Desktop\C++\C++_&_UNO\Ping_Pong\Ping_Pong\Ping_Pong.cpp(169,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Ping_Pong.vcxproj -> C:\Users\Rad_8\Desktop\C++\C++_&_UNO\Ping_Pong\x64\Debug\Ping_Pong.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
