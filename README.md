@@ -1,9 +1,22 @@
-# Raylib MiniGames
-Raylib game projects and demos — perfect for learning C++.  Helped me master concepts like vector, class and more
+# Raylib Mini Games 🎮
 
+This repository is a collection of small games and experiments made with [Raylib](https://www.raylib.com/).  
+Each project lives in its own folder with its own source code and instructions.
 
-Raylib game projects and demos — perfect for learning C++. Helped me master concepts like vectors, classes, and more.
+---
 
-**Raylib** is a low-level graphics library used to create games, simulations, and even game engines. I used Raylib as a fun way to learn C++, and it really helped me understand key concepts like vectors, classes, and program structure.  
+## 📂 Projects
+- [Pong](./pong) – Classic 2-player ping pong game
+- 
+---
 
-Thanks to Raylib, I am now able to confidently apply my C++ skills in Embedded Programming.
+## 🚀 How to Run
+Each project folder contains:
+- `main.cpp` (or equivalent source file)
+- A `README.md` with build/run instructions and controls
+
+General compile command for Raylib projects:
+```bash
+g++ main.cpp -o game -lraylib
+./game
+
